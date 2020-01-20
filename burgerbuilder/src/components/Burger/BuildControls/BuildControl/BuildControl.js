@@ -11,5 +11,4 @@ const buildControl = (props) => (
     );
 
 
-export default buildControl
-props
+export default buildControl;
